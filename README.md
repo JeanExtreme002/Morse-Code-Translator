@@ -8,6 +8,8 @@ You can also play the sound of morse code if you are using the Windows operating
 # Coding Morse Code Translator in Python | Timelapse:
 [![Watch the video](https://img.youtube.com/vi/WC5rQ4kRf18/maxresdefault.jpg)](https://www.youtube.com/watch?v=WC5rQ4kRf18)
 
+<br/>
+
 # Morse Code Table:
 
 ```
