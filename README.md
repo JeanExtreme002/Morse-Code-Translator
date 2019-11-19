@@ -1,4 +1,4 @@
-# Morse-Code-Translator
+# Description:
 
 Translate texts into morse code or read secret messages that are in morse code using this program. <br/>
 You can also play the sound of morse code if you are using the Windows operating system.
